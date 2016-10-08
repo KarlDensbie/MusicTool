@@ -1,6 +1,6 @@
-﻿namespace MusicTool
+﻿namespace MusicTool.Fenster
 {
-	partial class Form1
+	partial class Startfenster
 	{
 		/// <summary>
 		/// Erforderliche Designervariable.
